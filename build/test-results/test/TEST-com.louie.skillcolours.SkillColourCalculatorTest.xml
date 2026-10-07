@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.louie.skillcolours.SkillColourCalculatorTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2026-10-06T15:54:38" hostname="DESKTOP-U3BGIIR" time="0.045">
+  <properties/>
+  <testcase name="testLevelBelowOneClampedToRed" classname="com.louie.skillcolours.SkillColourCalculatorTest" time="0.005"/>
+  <testcase name="testLevel55IsMidwayRedToOrange" classname="com.louie.skillcolours.SkillColourCalculatorTest" time="0.0"/>
+  <testcase name="testCustomColours" classname="com.louie.skillcolours.SkillColourCalculatorTest" time="0.028"/>
+  <testcase name="testLevel65IsOrange" classname="com.louie.skillcolours.SkillColourCalculatorTest" time="0.0"/>
+  <testcase name="testLerpChannelOneT" classname="com.louie.skillcolours.SkillColourCalculatorTest" time="0.0"/>
+  <testcase name="testLevelAbove99ClampedToGold" classname="com.louie.skillcolours.SkillColourCalculatorTest" time="0.0"/>
+  <testcase name="testLevel1IsRed" classname="com.louie.skillcolours.SkillColourCalculatorTest" time="0.0"/>
+  <testcase name="testLevel98IsGreen" classname="com.louie.skillcolours.SkillColourCalculatorTest" time="0.0"/>
+  <testcase name="testLevel94IsMidwayYellowToGreen" classname="com.louie.skillcolours.SkillColourCalculatorTest" time="0.001"/>
+  <testcase name="testLevel99IsGold" classname="com.louie.skillcolours.SkillColourCalculatorTest" time="0.0"/>
+  <testcase name="testLerpRGBIdentity" classname="com.louie.skillcolours.SkillColourCalculatorTest" time="0.0"/>
+  <testcase name="testLevel77IsMidwayOrangeToYellow" classname="com.louie.skillcolours.SkillColourCalculatorTest" time="0.0"/>
+  <testcase name="testLevel89IsYellow" classname="com.louie.skillcolours.SkillColourCalculatorTest" time="0.0"/>
+  <testcase name="testLevel45IsRed" classname="com.louie.skillcolours.SkillColourCalculatorTest" time="0.0"/>
+  <testcase name="testLerpChannelHalfT" classname="com.louie.skillcolours.SkillColourCalculatorTest" time="0.0"/>
+  <testcase name="testLerpChannelZeroT" classname="com.louie.skillcolours.SkillColourCalculatorTest" time="0.001"/>
+  <testcase name="testAllLevelsReturnNonNegativeColour" classname="com.louie.skillcolours.SkillColourCalculatorTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
